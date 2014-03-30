@@ -1,0 +1,19 @@
+{
+  "name": "footman",
+  "version": "0.0.0",
+  "description": "runner between npm and maid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supershabam/footman"
+  },
+  "author": "Ian Hansen <ian@supershabam.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supershabam/footman/issues"
+  },
+  "homepage": "https://github.com/supershabam/footman"
+}
